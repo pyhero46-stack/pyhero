@@ -1,0 +1,11 @@
+nombre,ciudad,lat,lon,ventas
+Tienda PyHero Centro,Ciudad de México,19.4326,-99.1332,820000
+Tienda PyHero Polanco,Ciudad de México,19.4336,-99.1906,690000
+Tienda PyHero Guadalajara,Guadalajara,20.6767,-103.3475,540000
+Tienda PyHero Monterrey,Monterrey,25.6866,-100.3161,610000
+Tienda PyHero Puebla,Puebla,19.0414,-98.2063,310000
+Tienda PyHero Querétaro,Querétaro,20.5888,-100.3899,280000
+Tienda PyHero Mérida,Mérida,20.9674,-89.5926,190000
+Tienda PyHero Tijuana,Tijuana,32.5149,-117.0382,230000
+Tienda PyHero León,León,21.1250,-101.6860,150000
+Tienda PyHero Cancún,Cancún,21.1619,-86.8515,370000

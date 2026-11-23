@@ -1,0 +1,14 @@
+# Archivos que generan los scripts al correrlos
+reporte_final.xlsx
+gastos_altos.xlsx
+mapa_sucursales.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Excel abierto / temporales
+~$*
+.DS_Store
