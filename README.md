@@ -22,6 +22,12 @@ En cada carpeta:
 - `mision.py`: la misión del nivel resuelta, con el bonus.
 - (Nivel 5) `ventas.xlsx` y `gastos.xlsx`: los archivos de ejemplo.
 
+## Temporada 2: Gráficas
+
+| Episodio | Tema | Carpeta |
+| --- | --- | --- |
+| 1 | Tu primera gráfica: líneas | [`temporada-2-graficas/episodio-1-lineas`](temporada-2-graficas/episodio-1-lineas) |
+
 ## Proyectos
 
 Proyectos completos y funcionales que puedes adaptar a tu trabajo:
@@ -34,7 +40,7 @@ Proyectos completos y funcionales que puedes adaptar a tu trabajo:
 
 1. Instala **Python 3** desde [python.org](https://www.python.org/downloads/). En Windows, marca la casilla **"Add Python to PATH"**.
 2. Descarga este repositorio: botón verde **Code → Download ZIP**, y descomprímelo.
-3. Instala las librerías (solo hacen falta para el Nivel 5 y los proyectos):
+3. Instala las librerías (solo hacen falta para el Nivel 5, la Temporada 2 y los proyectos):
 
    ```bash
    pip install -r requirements.txt
