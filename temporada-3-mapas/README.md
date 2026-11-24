@@ -9,6 +9,7 @@ pip install folium
 | Episodio | Tema | Carpeta |
 | --- | --- | --- |
 | 1 | Tu primer mapa: latitud, longitud y zoom | [`episodio-1-primer-mapa`](episodio-1-primer-mapa) |
+| 2 | Marcadores y popups: pines con mensaje y un `for` | [`episodio-2-marcadores`](episodio-2-marcadores) |
 
 Cada carpeta trae el código del video, listo para correr, y la misión resuelta.
 

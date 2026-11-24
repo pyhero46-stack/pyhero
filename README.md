@@ -36,6 +36,7 @@ En cada carpeta:
 | Episodio | Tema | Carpeta |
 | --- | --- | --- |
 | 1 | Tu primer mapa: latitud, longitud y zoom | [`temporada-3-mapas/episodio-1-primer-mapa`](temporada-3-mapas/episodio-1-primer-mapa) |
+| 2 | Marcadores y popups: pines con mensaje y un `for` | [`temporada-3-mapas/episodio-2-marcadores`](temporada-3-mapas/episodio-2-marcadores) |
 
 ## Proyectos
 
