@@ -38,6 +38,7 @@ En cada carpeta:
 | 1 | Tu primer mapa: latitud, longitud y zoom | [`temporada-3-mapas/episodio-1-primer-mapa`](temporada-3-mapas/episodio-1-primer-mapa) |
 | 2 | Marcadores y popups: pines con mensaje y un `for` | [`temporada-3-mapas/episodio-2-marcadores`](temporada-3-mapas/episodio-2-marcadores) |
 | 3 | Del Excel al mapa: un pin por cada fila, con su color según las ventas | [`temporada-3-mapas/episodio-3-excel-al-mapa`](temporada-3-mapas/episodio-3-excel-al-mapa) |
+| 4 | Boss final: mapa de calor y capas que se prenden y apagan | [`temporada-3-mapas/episodio-4-mapa-de-calor`](temporada-3-mapas/episodio-4-mapa-de-calor) |
 
 ## Proyectos
 
