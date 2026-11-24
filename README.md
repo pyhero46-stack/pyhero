@@ -29,6 +29,7 @@ En cada carpeta:
 | 1 | Tu primera gráfica: líneas | [`temporada-2-graficas/episodio-1-lineas`](temporada-2-graficas/episodio-1-lineas) |
 | 2 | Gráficas de barras con datos de Excel | [`temporada-2-graficas/episodio-2-barras`](temporada-2-graficas/episodio-2-barras) |
 | 3 | Gráficas de pastel: qué parte le toca a cada uno | [`temporada-2-graficas/episodio-3-pastel`](temporada-2-graficas/episodio-3-pastel) |
+| 4 | Boss final: tu dashboard (varias gráficas en una imagen) | [`temporada-2-graficas/episodio-4-dashboard`](temporada-2-graficas/episodio-4-dashboard) |
 
 ## Proyectos
 
