@@ -9,6 +9,7 @@ pip install matplotlib
 | Episodio | Tema | Carpeta |
 | --- | --- | --- |
 | 1 | Tu primera gráfica: líneas | [`episodio-1-lineas`](episodio-1-lineas) |
+| 2 | Gráficas de barras con datos de Excel | [`episodio-2-barras`](episodio-2-barras) |
 
 Cada carpeta trae el código del video, listo para correr, y la misión resuelta.
 

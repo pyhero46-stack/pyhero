@@ -27,6 +27,7 @@ En cada carpeta:
 | Episodio | Tema | Carpeta |
 | --- | --- | --- |
 | 1 | Tu primera gráfica: líneas | [`temporada-2-graficas/episodio-1-lineas`](temporada-2-graficas/episodio-1-lineas) |
+| 2 | Gráficas de barras con datos de Excel | [`temporada-2-graficas/episodio-2-barras`](temporada-2-graficas/episodio-2-barras) |
 
 ## Proyectos
 
