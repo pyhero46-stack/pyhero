@@ -31,6 +31,12 @@ En cada carpeta:
 | 3 | Gráficas de pastel: qué parte le toca a cada uno | [`temporada-2-graficas/episodio-3-pastel`](temporada-2-graficas/episodio-3-pastel) |
 | 4 | Boss final: tu dashboard (varias gráficas en una imagen) | [`temporada-2-graficas/episodio-4-dashboard`](temporada-2-graficas/episodio-4-dashboard) |
 
+## Temporada 3: Mapas
+
+| Episodio | Tema | Carpeta |
+| --- | --- | --- |
+| 1 | Tu primer mapa: latitud, longitud y zoom | [`temporada-3-mapas/episodio-1-primer-mapa`](temporada-3-mapas/episodio-1-primer-mapa) |
+
 ## Proyectos
 
 Proyectos completos y funcionales que puedes adaptar a tu trabajo:
@@ -43,7 +49,7 @@ Proyectos completos y funcionales que puedes adaptar a tu trabajo:
 
 1. Instala **Python 3** desde [python.org](https://www.python.org/downloads/). En Windows, marca la casilla **"Add Python to PATH"**.
 2. Descarga este repositorio: botón verde **Code → Download ZIP**, y descomprímelo.
-3. Instala las librerías (solo hacen falta para el Nivel 5, la Temporada 2 y los proyectos):
+3. Instala las librerías (solo hacen falta para el Nivel 5, las Temporadas 2 y 3 y los proyectos):
 
    ```bash
    pip install -r requirements.txt
